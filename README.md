@@ -80,8 +80,13 @@ Findings were summarized using pivot tables and structured outputs designed to s
 
 ---
 ## Tools
-- Excel
-- SQL
+
+- **Excel / Power Query** – cleaned and standardized raw race data, handled missing values, and prepared analysis-ready datasets  
+- **Pivot Tables** – calculated KPIs including average finish, podium rate, win rate, and DNF rate  
+- **Dashboarding** – built an interactive dashboard to visualize rider consistency and performance trends  
+- **Data Analysis & Metrics Design** – defined KPIs aligned to business questions rather than raw totals  
+- **Documentation** – documented assumptions, metric definitions, and data limitations for transparency and reuse
+
 
 
 
