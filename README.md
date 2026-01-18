@@ -16,8 +16,8 @@ The dataset includes MotoGP race results, lap times, rider information, and seas
 sourced from publicly available MotoGP records.
 
 More information about the dataset can be found in the following links:
-- MotoGP Championship Standings: (ogp.com/en/world-standing/2025/motogp/championship-standings)
-- Raw Data (PDF or KAGGLE THING): (LINK)
+- [MotoGP Championship Standings](ogp.com/en/world-standing/2025/motogp/championship-standings)
+- [Raw Data (PDF or KAGGLE THING)] (LINK)
 
 ---
 ## Approach
