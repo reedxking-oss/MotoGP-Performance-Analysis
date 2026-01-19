@@ -17,7 +17,7 @@ sourced from publicly available MotoGP records.
 
 More information about the dataset can be found in the following links:
 - [MotoGP Championship Standings](ogp.com/en/world-standing/2025/motogp/championship-standings)
-- [Raw Data (PDF or KAGGLE THING)] (LINK)
+- [Raw Dataset](https://www.kaggle.com/datasets/sammee/motogp-race-results-2022)
 
 ---
 ## Approach
